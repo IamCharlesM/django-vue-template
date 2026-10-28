@@ -10,7 +10,6 @@ __pycache__
 .env.*.local
 
 # Log files
-temp_auto_push.bat
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -22,5 +21,4 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
-.gitignore
 branch_structure.json
